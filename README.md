@@ -1,38 +1,27 @@
 # Responsive Landing Page
 
-A beginner-friendly landing page created as part of the Prodigy InfoTech Web Development internship tasks.
+A polished, responsive landing page created as a front-end web development project.
 
-## Overview
-
-This project presents a simple branded landing page with a navigation bar and a hero section. It is built with core web technologies to practise page structure, styling, and responsive design.
+## Live locally
+Open `index.html` in a browser.
 
 ## Features
+- Responsive navigation with a mobile menu
+- Hero section, about section, service cards and contact section
+- Responsive layouts for mobile, tablet and desktop
+- Accessible navigation labels and reduced-motion support
+- Dynamic footer year
 
-- Navigation links for Home, About, Services, and Contact
-- Hero section with a welcome message and call-to-action button
-- Separate HTML and CSS files
-- Lightweight static website that can be hosted with GitHub Pages
+## Built with
+HTML5 · CSS3 · JavaScript
 
-## Tech Stack
+## Project structure
+- `index.html` — page structure and content
+- `style.css` — layout, styling and responsive rules
+- `script.js` — mobile navigation and footer year
 
-- HTML5
-- CSS3
-
-## Run locally
-
-1. Clone or download this repository.
-2. Open `index.html` in a web browser.
-
-No package installation or build step is required.
-
-## Live Demo
-
-Enable GitHub Pages in **Settings → Pages** (deploy from the `main` branch and `/(root)`). After GitHub publishes the site, add the generated URL here.
-
-## Internship Task
-
-Created for Prodigy InfoTech Web Development Task 1.
+## Deployment
+Enable GitHub Pages from **Settings → Pages → Deploy from a branch → main → /(root)**.
 
 ## Author
-
-Rupsa Maji — [GitHub](https://github.com/Rupsamaji)
+Rupsa Maji · [GitHub](https://github.com/Rupsamaji)
